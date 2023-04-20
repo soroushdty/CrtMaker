@@ -1,8 +1,11 @@
 Welcome to Certificate Maker User Manual
-This script automatically issues certificates from a PSD template file with names extracted from a MS Excel file.
-Certificate Maker is written in Python 3.10.7. and runs on Python 3.7 and newer.
-Note 1: Certificate Maker only runs on Windows OS.
-Note 2: Certificate Maker does not change fonts, formatting, etc. Make sure to install all necessary fonts and format the layer with your desired font, size, color, etc.
+
+Requirements:
+- Python 3.7 or newer
+- Windows OS
+- Adobe Photoshop installed
+
+Note: Certificate Maker (currently) does not change fonts, formatting, etc. Make sure to install all necessary fonts and format the layer with your desired font, size, color, etc.
 
 
 How to use Certificate Maker:
