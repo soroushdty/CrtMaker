@@ -3,7 +3,7 @@ This script automatically issues certificates from a PSD template file with name
 Certificate Maker is written in Python 3.10.7. and runs on Python 3.7 and newer.
 Note 1: Certificate Maker only runs on Windows OS.
 Note 2: Certificate Maker does not change fonts, formatting, etc. Make sure to install all necessary fonts and format the layer with your desired font, size, color, etc.
-<img src="../Screenshots/1.png">
+<img src="../Screenshots/master/1.png">
 How to use Certificate Maker:
 1. Install Python on your machine, if not already installed. You can find the latest Python version here: www.python.org/downloads. You must also have Photoshop installed.
 2. Download the program (CrtMaker.py). I strongly recommend putting the program file in the same directory as both the PSD template and the excel file.
