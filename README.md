@@ -61,4 +61,4 @@ In the next dialogue box, click on New and paste the previously copied path of t
 *********************************************************************************************
 Feel free to contact me for any inquiries: soroushdianaty@gmail.com
 
-Certificate Maker is distributed under GNU General Public License v3.0 license.
+Certificate Maker is distributed under <a href="https://github.com/soroushdty/CrtMaker/blob/master/LICENCE">GNU General Public License v3.0 license<a/>.
